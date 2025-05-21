@@ -1,5 +1,5 @@
 id,name,calories,protein,carbs,fats,type,price,preferences
-food1,Kak'ik,350,25,10,15,omnivore,medium,high_protein|traditional
+food1,Kak'ik,350,25,10,15,omnivore,medium,high_protein,traditional
 food2,Jocon,400,20,20,18,omnivore,medium,traditional
 food3,Hilachas,450,30,15,20,omnivore,high,high_protein
 food4,Pepian,480,28,18,22,omnivore,high,spicy

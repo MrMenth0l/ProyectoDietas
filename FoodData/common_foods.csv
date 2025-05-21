@@ -1,0 +1,50 @@
+id,name,calories,protein,carbs,fats,type,price,preferences
+food1,Arroz con Pollo,500,28,45,15,omnivore,medium,balanced
+food2,Frijoles Negros,200,12,20,5,vegan,low,protein_source
+food3,Huevos Revueltos,300,18,2,22,omnivore,low,breakfast
+food4,Pan Integral,250,8,40,4,vegetarian,low,whole_grain
+food5,Pechuga de Pollo a la Plancha,350,35,0,15,omnivore,medium,high_protein
+food6,Ensalada Mixta,180,4,10,12,vegan,low,low_calorie
+food7,Sopa de Verduras,150,4,20,4,vegan,low,light
+food8,Carne Molida con Arroz,550,30,35,20,omnivore,medium,filling
+food9,Plátano Frito,320,2,40,18,vegetarian,low,sweet
+food10,Tortillas de Maíz,120,3,20,2,vegan,low,staple
+food11,Queso Blanco,200,12,1,16,vegetarian,medium,dairy
+food12,Spaghetti con Salsa Roja,420,12,60,10,vegetarian,medium,comfort_food
+food13,Sándwich de Jamón y Queso,370,20,35,15,omnivore,medium,lunch
+food14,Yogur Natural,180,8,15,6,vegetarian,medium,dairy
+food15,Granola con Leche,320,10,45,12,vegetarian,medium,breakfast
+food16,Filete de Pescado,400,30,5,18,omnivore,medium,seafood
+food17,Atún con Galletas Saladas,350,25,20,12,omnivore,medium,snack
+food18,Pollo Empanizado,480,25,30,25,omnivore,medium,fried
+food19,Pupusas de Queso,300,10,30,12,vegetarian,medium,stuffed
+food20,Refresco Natural,150,0,35,0,vegan,low,drink
+food21,Sopa de Pollo,320,25,10,12,omnivore,medium,soup
+food22,Panqueques,380,8,50,15,vegetarian,low,breakfast
+food23,Empanadas de Queso,350,10,30,18,vegetarian,medium,fried
+food24,Arroz Blanco,210,4,45,2,vegan,low,staple
+food25,Fideos con Pollo,450,20,50,12,omnivore,medium,comfort_food
+food26,Pan Francés,200,5,40,4,vegetarian,low,bread
+food27,Flan,280,6,30,14,vegetarian,medium,dessert
+food28,Gallo Pinto,350,12,35,10,vegetarian,low,staple
+food29,Nachos con Frijoles,420,12,40,20,vegetarian,medium,snack
+food30,Tacos de Pollo,400,22,30,16,omnivore,medium,street_food
+food31,Hamburguesa Casera,550,28,35,28,omnivore,high,fast_food
+food32,Arroz con Leche,300,6,50,8,vegetarian,low,dessert
+food33,Macarrones con Queso,440,14,50,18,vegetarian,medium,comfort_food
+food34,Pizza de Queso,480,18,45,22,vegetarian,high,fast_food
+food35,Tamal de Elote,280,6,40,10,vegetarian,low,sweet
+food36,Chilaquiles,380,10,35,20,vegetarian,medium,brunch
+food37,Arepas,320,7,30,15,vegetarian,medium,stuffed
+food38,Huevos con Frijoles,350,18,20,15,omnivore,low,breakfast
+food39,Pan con Frijoles,300,12,35,10,vegetarian,low,snack
+food40,Cereal con Leche,280,6,40,8,vegetarian,low,breakfast
+food41,Tostadas con Guacamole,260,4,20,15,vegan,low,snack
+food42,Bistec Encebollado,500,35,5,25,omnivore,high,protein_rich
+food43,Sopa de Mariscos,420,30,12,18,omnivore,high,seafood
+food44,Camarones al Ajillo,400,32,5,22,omnivore,high,seafood
+food45,Tortilla Española,350,12,20,22,vegetarian,medium,brunch
+food46,Ensalada de Frutas,180,2,35,4,vegan,low,dessert
+food47,Pan de Avena,220,6,35,5,vegetarian,low,whole_grain
+food48,Hot Dog Casero,450,20,30,20,omnivore,medium,street_food
+food49,Croquetas de Papa,300,5,35,15,vegetarian,low,snack
