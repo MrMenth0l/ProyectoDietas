@@ -1,0 +1,26 @@
+F046,Shawarma de falafel,420,18,45,15,Almuerzo,30,vegetariano;alto en fibra,images/shawarma_de_falafel.jpg,"Rellenar pan pita con falafel, vegetales frescos y salsa tahini."
+F047,Bibimbap coreano,520,22.0,60,18,Almuerzo,35.0,alto en proteína;sin gluten,images/bibimbap_coreano.jpg,"Servir arroz con vegetales salteados, huevo y carne marinada."
+F048,Tamales de elote,300,6.0,40,12,Desayuno,20.0,vegetariano,images/tamales_de_elote.jpg,"Cocer masa de elote envuelta en hojas, al vapor."
+F049,Sándwich caprese,410,14.0,38,20,Almuerzo,28.0,vegetariano,images/sandwich_caprese.jpg,"Pan con tomate,  mozzarella, albahaca y aceite de oliva."
+F050,Sopa de lentejas turca,280,17.0,30,10,Cena,22.0,vegano;alto en fibra,images/sopa_de_lentejas_turca.jpg,"Cocinar lentejas con zanahoria, cebolla y especias."
+F051,Tostadas francesas integrales,350,12.0,40,14,Desayuno,25.0,vegetariano,images/tostadas_francesas_integrales.jpg,"Remojar pan integral en mezcla de huevo y leche, y dorar."
+F052,Chana masala,390,16.0,45,12,Almuerzo,27.5,vegano;sin gluten,images/chana_masala.jpg,Garbanzos cocinados con tomate y especias indias.
+F053,Bowl mediterráneo,450,20.0,40,18,Almuerzo,32.0,vegetariano,images/bowl_mediterraneo.jpg,"Armar bowl con couscous, hummus, vegetales y queso feta."
+F054,Fajitas de vegetales,370,10.0,35,16,Cena,26.0,vegano;bajo en grasas,images/fajitas_de_vegetales.jpg,Saltear vegetales con especias y servir en tortillas.
+F055,Muffins de avena y plátano,310,8.0,42,10,Desayuno,18.5,vegetariano;sin azúcar añadida,images/muffins_de_avena_y_platano.jpg,"Hornear mezcla de avena, plátano y huevo."
+F056,Ceviche de lentejas,346,13.9,45,16,Almuerzo,31.2,vegano;alto en fibra;sin gluten,images/ceviche_de_lentejas.jpg,"Mezclar lentejas cocidas con cebolla, tomate, limón y cilantro."
+F057,Gnocchi de espinaca,522,17.3,51,18,Almuerzo,34.1,vegetariano;alto en fibra,images/gnocchi_de_espinaca.jpg,Preparar gnocchis con puré de espinaca y servir con salsa blanca.
+F058,Pasta al pesto vegana,456,14.2,48,15,Almuerzo,36.7,vegano;sin lactosa,images/pasta_al_pesto_vegana.jpg,Cocinar pasta y mezclar con pesto de albahaca sin queso.
+F059,Ensalada de couscous,335,9.8,40,13,Cena,24.3,vegetariano;bajo en grasas,images/ensalada_de_couscous.jpg,"Mezclar couscous con verduras, limón y hierbas."
+F060,Pizza de coliflor,498,16.7,42,20,Cena,38.9,sin gluten;vegetariano,images/pizza_de_coliflor.jpg,Preparar base de coliflor y cubrir con salsa y vegetales.
+F061,Wrap de hummus y vegetales,314,10.1,39,12,Cena,26.5,vegano;alto en fibra,images/wrap_de_hummus_y_vegetales.jpg,"Enrollar hummus, zanahoria y espinaca en tortilla integral."
+F062,Hamburguesa de lentejas,420,18.4,46,15,Almuerzo,29.8,vegano;sin lactosa;alto en fibra,images/hamburguesa_de_lentejas.jpg,"Formar hamburguesa con lentejas y especias, dorar."
+F063,Tacos de garbanzos,385,15.6,43,13,Almuerzo,27.0,vegano;sin gluten;alto en proteína,images/tacos_de_garbanzos.jpg,Cocinar garbanzos con comino y servir en tortillas.
+F064,Sopa tailandesa de coco,448,14.8,38,19,Cena,33.2,sin gluten;vegetariano;sin lactosa,images/sopa_tailandesa_de_coco.jpg,Cocer leche de coco con verduras y pasta de curry.
+F065,Ensalada de manzana y nueces,312,9.5,36,14,Desayuno,21.8,vegetariano;sin gluten;bajo en grasas,images/ensalada_de_manzana_y_nueces.jpg,"Mezclar manzana, nueces, espinaca y aderezo ligero."
+F066,Crema de zanahoria,295,6.4,34,11,Cena,23.0,vegano;sin gluten;bajo en grasas,images/crema_de_zanahoria.jpg,Hervir zanahorias y licuar con especias y caldo vegetal.
+F067,Tofu a la naranja,430,22.1,41,17,Almuerzo,31.7,vegano;alto en proteína;sin gluten,images/tofu_a_la_naranja.jpg,Saltear tofu y bañar en salsa cítrica con soya.
+F068,Ensalada templada de lentejas,368,19.3,37,13,Almuerzo,29.5,vegetariano;alto en fibra,images/ensalada_templada_de_lentejas.jpg,"Saltear lentejas con espinaca, tomate y aceite de oliva."
+F069,Batido de frutos rojos y chía,280,10.2,35,9,Desayuno,18.0,vegano;sin azúcar añadida,images/batido_de_frutos_rojos_y_chia.jpg,Licuar frutos rojos con leche vegetal y semillas de chía.
+F070,Quiche de espinaca y champiñones,510,21.5,39,20,Cena,35.0,vegetariano;alto en proteína,images/quiche_de_espinaca_y_champinones.jpg,"Hornear mezcla de huevo, espinaca y champiñones en base de masa."
+F071,Pan pita con aguacate y huevo,390,14.7,35,16,Desayuno,24.0,vegetariano;bajo en grasas,images/pan_pita_con_aguacate_y_huevo.jpg,Tostar pan pita y cubrir con aguacate y huevo cocido.

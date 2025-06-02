@@ -1,0 +1,140 @@
+.form-background {
+    -fx-background-color: #ffe6cc; /* naranja claro */
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #c54b1d;
+    -fx-font-weight: bold;
+}
+
+.text-field,
+.password-field,
+.combo-box {
+    -fx-background-color: #fff7f2;
+    -fx-border-color: #e0a371;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 8px;
+    -fx-font-size: 13px;
+    -fx-text-fill: #5a2f15;
+}
+
+.combo-box {
+    -fx-background-color: #fff7f2;
+    -fx-border-color: #e0a371;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 8px;
+    -fx-font-size: 13px;
+    -fx-text-fill: #5a2f15;
+}
+
+.button {
+    -fx-background-color: #f55b3e;
+    -fx-background-radius: 10px;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 4, 0.1, 0, 2);
+}
+
+.button:hover {
+    -fx-background-color: #ff7043;
+}
+
+#mensaje-label {
+    -fx-font-size: 13px;
+    -fx-text-fill: red;
+    -fx-font-style: italic;
+}
+
+.grid-pane {
+    -fx-background-color: #fffdfb;
+    -fx-padding: 25px;
+    -fx-border-radius: 16px;
+    -fx-background-radius: 16px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 8, 0.1, 0, 4);
+}
+
+.titulo {
+    -fx-font-size: 36px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #e96d2d;
+}
+.titulo-comida {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.receta-label {
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-text-fill: #444;
+}
+
+.card-comida {
+    -fx-background-color: #fffdfb;
+    -fx-border-color: #e0a371;
+    -fx-border-radius: 12px;
+    -fx-background-radius: 12px;
+    -fx-padding: 20px;
+    -fx-spacing: 15px;
+    -fx-alignment: center;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 10, 0.1, 0, 4);
+}
+
+.imagen-comida {
+    -fx-fit-width: 300px;
+    -fx-fit-height: 200px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 4, 0.1, 0, 2);
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+.voto-buttons {
+    -fx-spacing: 15px;
+    -fx-alignment: center;
+}
+
+.voto-button-negativo {
+    -fx-background-color: #cccccc;
+    -fx-text-fill: #333;
+}
+.voto-button-positivo {
+    -fx-background-color: #f55b3e;
+    -fx-text-fill: white;
+}
+.voto-button-ahorita {
+    -fx-background-color: #e96d2d;
+    -fx-text-fill: white;
+}
+
+.voto-button-negativo:hover {
+    -fx-background-color: #bbbbbb;
+}
+.voto-button-positivo:hover {
+    -fx-background-color: #ff7043;
+}
+.voto-button-ahorita:hover {
+    -fx-background-color: #ff8a50;
+}
+
+.calorias-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #5a2f15;
+}
+
+.boton-logout {
+    -fx-font-size: 11px;
+    -fx-background-color: transparent;
+    -fx-text-fill: gray;
+    -fx-padding: 5px;
+    -fx-cursor: hand;
+}
+.boton-logout:hover {
+    -fx-text-fill: #444;
+    -fx-underline: true;
+}

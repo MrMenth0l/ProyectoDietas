@@ -1,0 +1,21 @@
+id,name,calories,protein,carbs,fats,type,price,preferences,imagePath,receta
+F001,Huevos Revueltos,180,13,2,14,Desayuno,8,alto en proteína;sin gluten,images/huevos_revueltos.jpg,Batir huevos, cocinar con aceite y añadir sal.
+F002,Panqueques con Miel,350,6,45,10,Desayuno,6,vegetariano,images/panqueques_miel.jpg,Mezclar ingredientes, cocinar en sartén y servir con miel.
+F003,Avena con Frutas,250,5,38,6,Desayuno,6,alto en fibra;vegano,images/avena_frutas.jpg,"Cocinar avena, añadir frutas frescas y servir."
+F004,Tostadas con Aguacate,300,8,30,15,Desayuno,7,vegano,images/tostadas_aguacate.jpg,Tostar pan y colocar aguacate triturado encima.
+F005,Ensalada César,320,10,18,22,Almuerzo,8,sin gluten,images/ensalada_cesar.jpg,"Mezclar lechuga, pollo, aderezo césar y crutones."
+F006,Pollo a la Plancha,400,35,2,20,Almuerzo,9,alto en proteína,images/pollo_plancha.jpg,Cocinar pechuga de pollo con especias en sartén.
+F007,Sopa de Lentejas,270,12,35,8,Almuerzo,7,vegetariano;sin gluten,images/sopa_lentejas.jpg,Hervir lentejas con verduras y especias.
+F008,Pasta Alfredo,550,15,55,30,Almuerzo,10,vegetariano,images/pasta_alfredo.jpg,Cocinar pasta y mezclar con salsa alfredo cremosa.
+F009,Arroz con Verduras,330,7,45,10,Almuerzo,6,vegano,images/arroz_verduras.jpg,Saltear verduras y mezclar con arroz cocido.
+F010,Bistec con Puré,600,40,25,35,Almuerzo,10,alto en proteína,images/bistec_pure.jpg,Cocinar bistec al gusto y acompañar con puré de papa.
+F011,Sandwich Integral,280,12,30,8,Cena,6,alto en fibra,images/sandwich_integral.jpg,Rellenar pan integral con vegetales y proteína magra.
+F012,Crema de Calabaza,240,4,22,12,Cena,6,vegetariano;sin gluten,images/crema_calabaza.jpg,Cocinar calabaza y licuar con crema.
+F013,Tacos de Pescado,380,18,35,15,Cena,9,rico en omega 3,images/tacos_pescado.jpg,Freír pescado y servir en tortillas con ensalada.
+F014,Quinoa con Garbanzos,310,11,40,9,Cena,8,vegano;alto en proteína,images/quinoa_garbanzos.jpg,Cocinar quinoa y mezclar con garbanzos cocidos.
+F015,Pizza Vegetariana,450,16,48,22,Cena,9,vegetariano,images/pizza_vegetariana.jpg,Hornear base con vegetales y queso.
+F016,Bowl de Yogur y Granola,310,10,35,12,Desayuno,7,vegetariano;alto en fibra,images/yogur_granola.jpg,Servir yogur con granola y frutas.
+F017,Hamburguesa de Soya,400,18,40,16,Cena,8,vegano,images/hamburguesa_soya.jpg,Cocinar hamburguesa vegetal y servir con pan.
+F018,Wrap de Pollo,390,25,30,15,Almuerzo,8,alto en proteína,images/wrap_pollo.jpg,"Rellenar tortilla con pollo, verduras y salsa."
+F019,Ensalada de Frutas,220,2,50,2,Desayuno,5,vegano;alto en fibra,images/ensalada_frutas.jpg,Mezclar frutas frescas y servir frías.
+F020,Cereal Integral con Leche,270,8,40,7,Desayuno,6,vegetariano,images/cereal_leche.jpg,Servir cereal con leche al gusto.

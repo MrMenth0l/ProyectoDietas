@@ -33,6 +33,11 @@
         <artifactId>javafx-controls</artifactId>
         <version>21</version>
     </dependency>
+      <dependency>
+        <groupId>org.mindrot</groupId>
+        <artifactId>jbcrypt</artifactId>
+        <version>0.4</version>
+      </dependency>
   </dependencies>
   <build>
     <plugins>
@@ -50,7 +55,7 @@
             <artifactId>javafx-maven-plugin</artifactId>
             <version>0.0.8</version>
             <configuration>
-                <mainClass>org.example.View.RegistroApp</mainClass>
+                <mainClass>org.example.View.MainApp</mainClass>
             </configuration>
         </plugin>
     </plugins>

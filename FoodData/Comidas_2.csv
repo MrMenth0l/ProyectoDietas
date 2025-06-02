@@ -1,0 +1,26 @@
+id,name,calories,protein,carbs,fats,type,price,preferences,imagePath,receta
+F021,Tofu stir fry,350,20,25,15,Almuerzo,32.5,vegano;bajo en grasas,images/tofu_stir_fry.jpg,Saltear tofu con vegetales en salsa de soya y jengibre.
+F022,Pupusas de frijol y queso,420,18,40,20,Almuerzo,18.75,vegetariano;rico en calcio,images/pupusas_de_frijol.jpg,"Mezclar masa de maíz con relleno de frijoles y queso, luego asarlas en comal."
+F023,Ensalada griega,280,10,15,22,Cena,25.0,vegetariano;sin gluten,images/ensalada_griega.jpg,"Combinar tomate, pepino, aceitunas y queso feta con aceite de oliva."
+F024,Miso ramen,480,25,60,18,Cena,42.0,alto en proteína;asiática,images/miso_ramen.jpg,"Hervir fideos con caldo miso, tofu, huevo cocido y cebollín."
+F025,Avena con frutas,260,6,45,7,Desayuno,10.5,vegano;alto en fibra,images/avena_con_frutas.jpg,Cocer avena con agua o leche vegetal y servir con frutas frescas.
+F026,Tacos de pescado,390,22,35,16,Almuerzo,29.9,sin gluten;rico en omega 3,images/tacos_de_pescado.jpg,"Dorar filetes de pescado, servir en tortilla con repollo y salsa."
+F027,Hummus con pan pita,330,12,40,14,Cena,20.0,vegano;medio oriente,images/hummus_con_pan_pita.jpg,"Procesar garbanzos con tahini, ajo y limón. Servir con pan pita."
+F028,Chilaquiles verdes,450,18,50,22,Desayuno,27.75,vegetariano;picante,images/chilaquiles_verdes.jpg,"Tostar totopos, cubrir con salsa verde y queso fresco."
+F029,Arepas con aguacate,370,9,30,20,Desayuno,22.5,vegetariano;latinoamericana,images/arepas_con_aguacate.jpg,"Cocinar masa de maíz, abrir y rellenar con aguacate y sal."
+F030,Salteado de quinoa,310,11,35,10,Almuerzo,28.0,vegano;alto en fibra,images/salteado_de_quinoa.jpg,Saltear quinoa cocida con vegetales y especias.
+F031,Bol de poke,420,24,45,12,Almuerzo,39.0,pescado crudo;fresco,images/bol_de_poke.jpg,"Servir arroz con atún, edamame, mango, aguacate y sésamo."
+F032,Curry de lentejas,400,20,40,17,Cena,24.75,vegano;alto en proteína,images/curry_de_lentejas.jpg,"Cocer lentejas con leche de coco, tomate, cúrcuma y especias."
+F033,Panqueques integrales,290,8,38,12,Desayuno,16.0,vegetariano;alto en fibra,images/panqueques_integrales.jpg,Preparar mezcla integral y cocer en sartén con poco aceite.
+F034,Sopa minestrone,270,10,30,8,Cena,18.9,vegetariano;bajo en calorías,images/sopa_minestrone.jpg,"Hervir verduras, pasta y frijoles en caldo con hierbas."
+F035,Brochetas de pollo,390,32,10,18,Almuerzo,34.5,alto en proteína;bajo en carbohidratos,images/brochetas_pollo.jpg,"Ensamblar cubos de pollo y vegetales, asarlos y sazonar."
+F036,Budín de chía,220,6,25,9,Desayuno,12.5,vegano;alto en omega 3,images/budin_de_chía.jpg,"Mezclar semillas de chía con leche vegetal y dejar reposar, agregar frutas."
+F037,Spaghetti de calabacín,250,5,20,15,Cena,20.0,vegano;bajo en carbohidratos,images/spaghetti_de_calabacín.jpg,"Saltear tiras de calabacín con tomate, ajo y albahaca."
+F038,Shakshuka,310,14,20,18,Desayuno,26.0,vegetariano;medio oriente,images/shakshuka.jpg,Cocer huevos en salsa de tomate con pimientos y especias.
+F039,Gallo pinto,400,15,45,14,Desayuno,17.9,vegetariano;latinoamericana,images/gallo_pinto.jpg,"Saltear arroz y frijoles con cebolla, ajo y culantro."
+F040,Pollo tikka masala,500,28,35,25,Almuerzo,38.0,alto en proteína;picante,images/pollo_tikka_masala.jpg,"Cocer pollo marinado en yogur y especias, servir con salsa cremosa."
+F041,Crepas de espinaca,300,12,30,10,Desayuno,19.8,vegetariano;bajo en calorías,images/crepas_de_espinaca.jpg,Preparar crepas integrales y rellenar con espinaca salteada.
+F042,Tabulé,280,7,40,9,Cena,18.5,vegano;fresco,images/tabule.jpg,"Mezclar trigo bulgur con tomate, perejil, menta, limón y aceite de oliva."
+F043,Risotto de champiñones,410,10,50,18,Cena,35.0,vegetariano;alto en energía,images/risotto_de_champiñones.jpg,Cocer arroz arborio con caldo y champiñones hasta cremoso.
+F044,Yakimeshi,450,16,48,19,Almuerzo,30.0,asiática;variado,images/yakimeshi.jpg,"Saltear arroz con huevo, vegetales y salsa soya."
+F045,Bocadillo de hummus y pimiento,290,9,35,13,Desayuno,14.0,vegano;fácil preparación,images/bocadillo_de_hummus_y_pimiento.jpg,Unta hummus en pan integral y agregar tiras de pimiento rojo.
