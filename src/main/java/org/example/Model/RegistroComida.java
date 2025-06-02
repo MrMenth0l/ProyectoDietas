@@ -30,4 +30,20 @@ public class RegistroComida {
     public int getCalorias() {
         return calorias;
     }
+
+    public static void registrarPuntuacionEnNeo4j(String correoUsuario, String comidaId, int puntuacion, org.neo4j.driver.Session session) {
+        session.writeTransaction(tx -> {
+            tx.run("""
+                MATCH (u:Usuario {correo: $correo})
+                MATCH (f:Food {id: $comidaId})
+                MERGE (u)-[r:CALIFICO]->(f)
+                SET r.puntuacion = $puntuacion, r.fecha = date()
+            """, org.neo4j.driver.Values.parameters(
+                "correo", correoUsuario,
+                "comidaId", comidaId,
+                "puntuacion", puntuacion
+            ));
+            return null;
+        });
+    }
 }
